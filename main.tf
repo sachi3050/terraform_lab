@@ -15,5 +15,5 @@ resource "aws_s3_bucket" "b" {
 }
 
 variable "region" {
-  default = "us-east-1"
+ 
 }
